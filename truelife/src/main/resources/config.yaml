@@ -1,0 +1,11 @@
+http:
+  host: "localhost"
+  path: "/"
+  port: "8081"
+db: 
+  host: "localhost"
+  port: "3306"
+  user: "root"
+  password: "phil.3:8"
+  database: "store"
+  
